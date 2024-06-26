@@ -20,3 +20,9 @@
 # Go workspace file
 go.work
 go.work.sum
+
+# vscode
+.vscode
+
+# etc
+.tool-versions
